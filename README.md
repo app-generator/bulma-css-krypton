@@ -17,8 +17,6 @@
 
 <br />
 
-<br />
-
 ## Details
 
 Krypton is developed with the [Bulma css framework](https://bulma.io)
