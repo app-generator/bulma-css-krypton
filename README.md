@@ -1,9 +1,23 @@
-# Krypton Landing page
-![](https://cssninja.io/storage/app/media/external/krypton/krypton-preview.png)
+# [Bulma CSS](https://bulma-css.com/) Krypton
 
-Krypton is a one page landing page starter built by [Css Ninja Studio](https://cssninja.io). Krypton is licensed under the MIT license.
+> Krypton is a one page landing page starter built by [Css Ninja Studio](https://cssninja.io). Krypton is licensed under the MIT license.
 
-You can access the demo [here](https://cssninjastudio.github.io/Krypton/).
+<br />
+
+> Features & Links
+
+- Bulma version: v0.9.1
+- Sections: Buttons, HERO, Contact, Cards, CTA, Team cards
+- [Bulma Krypton](https://bulma-css.com/krypton/) - product page
+- [Bulma Krypton - DEMO](https://bulma-css-krypton.bulma-css.com/) - LIVE deploy
+
+<br />
+
+![Bulma CSS - Krypton is a one page landing page.](https://raw.githubusercontent.com/app-generator/bulma-css-krypton/master/media/bulma-css-krypton-screen.png)
+
+<br />
+
+<br />
 
 ## Details
 
@@ -111,3 +125,9 @@ To use this template, your computer needs:
 - [Handlebars](http://handlebarsjs.com/)
 - [Panini](https://github.com/zurb/panini)
 - [Gulp](https://gulpjs.org/getting-started)
+
+<br />
+
+---
+[Bulma CSS](https://bulma-css.com/) Krypton - provided by **Bulma-Css.com**
+
